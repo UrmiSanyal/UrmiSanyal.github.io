@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Nov 2023 13:10:55 at http://www.ivfspecialistkolkata.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.ivfspecialistkolkata.co.in/ -O1 "C:\My Web Sites\google" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/js/jquery-2.1.4.min.js (from www.ivfspecialistkolkata.co.in/)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107banner_top_oth.jpg (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107ser-bg.jpg (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107banner.jpg (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107banner_test.jpg (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107ear-bg.jpg (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107partners-bg.jpg (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107bannerenquiry.jpg (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/105118yoga_pattern.png (from www.ivfspecialistkolkata.co.in/cimage34/111107style.css)
+13:16:54	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/adver/js/jquery-2.1.4.min.js (from www.ivfspecialistkolkata.co.in/adver/111107.html)
+13:16:57	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage34/111107loading.gif (from www.ivfspecialistkolkata.co.in/cimage34/111107lightbox.min.css)
+13:16:57	Error: 	"Not Found" (404) at link www.ivfspecialistkolkata.co.in/cimage28/loading.gif (from www.ivfspecialistkolkata.co.in/cimage34/111107lightbox.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 2 seconds : 98 links scanned, 85 files written (9019949 bytes overall) [8825867 bytes received at 24380 bytes/sec], 303521 bytes transferred using HTTP compression in 5 files, ratio 25%, 2.0 requests per connection
+(12 errors, 0 warnings, 0 messages)
